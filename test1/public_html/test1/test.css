@@ -1,0 +1,31 @@
+
+body {
+    background-color: #001391 !important;
+    
+}
+
+img {
+    position: absolute;
+    left:35%;
+    top:7%;
+    max-width: 100%;
+    height:auto;
+}
+.login{
+    position:absolute;
+    background-color:white;
+    top:35%; 
+    left:38%;
+    padding:40px;
+    border-radius:10px;
+    max-width:100%;
+    height:auto;
+}   
+.button{
+    background-color: #001391;
+    color: white;
+    padding: 9px 32px;
+    text-align: center;
+    font-size: 16px;
+    margin: 15px 70px;
+}
